@@ -38,7 +38,8 @@ http://localhost:5000
 ```
 ## ⚠️ Disclaimer
 
-This tool is for educational and debugging purposes only. Do not use user tokens you don't own. Misuse may violate Discord’s Terms of Service.
+This tool is for educational and debugging purposes only. Do not use user tokens you don't own. Misuse may violate Discord’s Terms of Service. 
+###### just dont be an actual idiot with it
 
 ## 📄 License
 ```
