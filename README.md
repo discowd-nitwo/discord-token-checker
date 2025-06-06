@@ -23,19 +23,19 @@ A simple Flask web app that lets developers check whether a Discord token is a *
 ```bash
 git clone https://github.com/yourusername/discord-token-checker.git
 cd discord-token-checker
-
-    Install dependencies:
-
+```
+2. Install dependencies:
+```bash
 pip install -r requirements.txt
-
-    Run the app:
-
+```
+3. Run the app:
+```bash
 python app.py
-
-    Open your browser and go to:
-
+```
+4. Open your browser and go to:
+```bash
 http://localhost:5000
-
+```
 📁 Project Structure
 
 discord-token-checker/
@@ -50,4 +50,3 @@ This tool is for educational and debugging purposes only. Do not use user tokens
 📄 License
 
 MIT License
-```
