@@ -37,10 +37,9 @@ python app.py
 http://localhost:5000
 ```
 ## ⚠️ Disclaimer
+This tool is for educational and debugging purposes only. Do not use user tokens you don't own. Misuse may violate Discord’s Terms of Service.
 
-This tool is for educational and debugging purposes only. Do not use user tokens you don't own. Misuse may violate Discord’s Terms of Service. 
-###### just dont be an actual idiot with it
-
+>🔒 **Privacy Notice**: This tool intentionally strips out sensitive fields like emails and phone numbers from the output ([Removed due to privacy]). If you fork or reuse this code, please keep that protection in place.
 ## 📄 License
 ```
 MIT License
